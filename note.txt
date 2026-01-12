@@ -1,0 +1,5 @@
+"""
+06_voicebot에서 우클릭 -> open in intergrated Terminal 
+터미널에서 pip list --format=freeze > requirements.txt 이 만들어짐
+컨트롤 F 눌러서 win 찾고 pywinpty==3.0.2 삭제
+"""
